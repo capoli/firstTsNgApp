@@ -2,12 +2,13 @@
   "compilerOptions": {
     "target": "ES5",
     "module": "commonjs",
-    "sourceMap": true,
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
+    "sourceMap": true,
+    "mapRoot":"js",
+    "sourceRoot":"ts",
     "outDir":"js",
     "rootDir":"ts",
-    "sourceMap":false,
     "removeComments":true
   }
 }

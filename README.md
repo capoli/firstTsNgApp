@@ -6,6 +6,7 @@ Prerequisites:
 - install typescript: npm install -g typescript
 - install tsd package manager: npm install -g tsd
 - install a node static server (for this project specific): npm install -g live-server
+*** for more information about tsd: https://github.com/DefinitelyTyped/tsd
 
 To be able to run the application:
 - mkdir <dir> & cd <dir>
