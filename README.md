@@ -1,5 +1,5 @@
 # firstTsNgApp
-This is for test purpose
+This is for test purpose, based from: https://angular.io/docs/ts/latest/guide/gettingStarted.html
 
 Prerequisites:
 - install node
